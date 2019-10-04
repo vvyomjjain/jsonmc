@@ -1,0 +1,21 @@
+{
+  "name": "The Disaster Artist",
+  "year": 2017,
+  "runtime": 104,
+  "categories": [
+    "drama",
+    "comedy"
+  ],
+  "release-date": "2017-12-01",
+  "director": "James Franco",
+  "writer": [
+    "Michael H. Weber",
+    "Scott Neustadter"
+  ],
+  "actors": [
+    "Dave Franco",
+    "James Franco",
+    "Seth Rogan"
+  ],
+  "storyline": "An aspiring filmmaker Tommy Wiseau and actor Greg Sestero move to Los Angeles to look for Hollywood stardom. Using his own money, Wiseau writes, directs and stars in `The Room,' a critically maligned movie that becomes a cult classic."
+}
